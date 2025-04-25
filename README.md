@@ -1,4 +1,5 @@
 # Cactus Identification | ResNet Transfer Learning 🌵
+Please find the kaggle link in the sidebar.
 
 ## Project Overview 👀
 This repository contains my solution to a Kaggle challenge related to the classification of columnar cacti in aerial imagery. The challenge is inspired by conservation efforts similar to Mexico's VIGIA project, which aims to develop autonomous surveillance systems for monitoring and protecting natural areas with rich biodiversity.
